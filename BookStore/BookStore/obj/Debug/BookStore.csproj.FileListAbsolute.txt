@@ -1,0 +1,16 @@
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\bin\Debug\BookDB.mdf
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\bin\Debug\BookDB_log.ldf
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.Login.resources
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.RegisterForm.resources
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.BookStore.resources
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.OwnerPage.resources
+C:\Users\Ready2Go\source\repos\BookStore\BookStore\obj\Debug\BookStore.Form3.resources
